@@ -8,3 +8,7 @@ Tools used:
 - Python
 - Pandas
 - Jupyter Notebook
+<<<<<<< Updated upstream:README.md
+=======
+
+>>>>>>> Stashed changes:crime_data/README.MD
