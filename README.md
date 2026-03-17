@@ -34,11 +34,6 @@ glob and os are built into Python and do not require installation.
 3. Open analysis.ipynb and select Python 3 as the kernel
 4. Restart kernel and Run All
 
-## Project Links
-- GitHub Repository — https://github.com/Tariq1067/CrimeDataAnalysis
-- Trello Board — https://trello.com/invite/b/69b18cc71c7a24bcec2227ed/ATTIeffe5d8fb7a803526148376a9eabef654366DC2A/crime-analysis-trello-board
-
-
 ## Data Sources
 - Police street crime data — https://data.police.uk
 - ONS population estimates — https://www.ons.gov.uk
